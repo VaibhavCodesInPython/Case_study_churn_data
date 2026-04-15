@@ -5,7 +5,7 @@ import tensorflow as tf
 import pickle
 
 
-st.set_page_config(page_title="Bank Churn Predictor", page_icon="🏦")
+st.set_page_config(page_title="Bank Churn Predictor")
 
 
 @st.cache_resource
